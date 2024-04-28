@@ -1,0 +1,13 @@
+Carrier Code,Origin Airport,Scheduled Elapsed Time (Minutes),month,season,WeekDay,latitude,elevation,wind_direction,wind_speed,visibility_dist,air_temparature,sea_level_pressure,SYR_wind_direction,SYR_wind_speed,SYR_visibility_dist,SYR_air_temparature,SYR_sea_level_pressure,SCHED_ARRV_TIME_CAT
+UA,ORD,115,4,spring,Wednesday,41.96019,201.8,87,9.5,9.9,62.5,1010.3,4,0.1,9.9,59.9,1014.9,Night
+B6,JFK,77,4,spring,Wednesday,40.63915,3.4,43,9.1,8.8,57.1,1017.7,331,16.0,9.8,62.8,1013.7,Noon
+WN,MCO,160,4,spring,Wednesday,28.4339,27.4,158,15.6,9.9,77,1017.6,48,3.5,9.9,68.7,1013.5,Noon
+UA,ORD,115,4,spring,Thursday,41.96019,201.8,351,7.7,9.9,55.7,1000.6,92,14.8,9.7,61.9,998.9,Night
+B6,JFK,77,4,spring,Thursday,40.63915,3.4,40,9.1,9.9,60,1013.2,149,14.7,9.9,65.7,1005.5,Noon
+WN,MCO,165,4,spring,Thursday,28.4339,27.4,182,22.6,9.9,80.4,1009.4,121,8.2,9.9,62.8,1006.4,Noon
+UA,ORD,115,4,spring,Friday,41.96019,201.8,333,10,9.9,55.5,1012.7,229,9.2,9.9,51.9,991.7,Night
+B6,JFK,77,4,spring,Friday,40.63915,3.4,260,16.1,9.8,56.2,994.4,250,17.9,9.9,60,988.4,Noon
+WN,MCO,165,4,spring,Friday,28.4339,27.4,274,14.1,9.9,74.1,1021.2,221,22.4,9.9,60.1,988.5,Noon
+UA,ORD,115,4,spring,Saturday,41.96019,201.8,208,13.4,9.9,69.7,1011.9,300,9.4,9.9,45,1010.3,Night
+B6,JFK,77,4,spring,Saturday,40.63915,3.4,261,19.2,9.9,51.1,1004.6,299,24.2,9.9,44.1,1004.9,Noon
+B6,MCO,170,4,spring,Saturday,28.4339,27.4,40,5.2,9.9,75.2,1024.5,299,24,9.9,44.1,1005.3,Afternoon

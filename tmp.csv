@@ -1,0 +1,7 @@
+name,datetime,temp,feelslike,dew,humidity,precip,precipprob,preciptype,snow,snowdepth,windgust,windspeed,winddir,sealevelpressure,cloudcover,visibility,solarradiation,solarenergy,uvindex,severerisk,conditions,icon,stations
+
+Orlando,2024-04-11T01:00:00,73.0,73.0,64.1,73.8,0.0,0,,0,0,24.2,14.0,159,1013.2,0.0,9.9,0,0.0,0,10,Clear,clear-night,"72205312841,1341W,72205712854,72205012815,KISM,KORL,KMCO"
+
+
+
+Syracuse,2024-04-10T17:00:00,61.9,61.9,56.0,81.01,0.0,0,,0,0,6.9,4.5,98,1013.4,99.6,9.8,196,0.7,2,10,Overcast,cloudy,"KSYR,72519014771,72514654773,KFZY,72519664775,0534W,KRME"
